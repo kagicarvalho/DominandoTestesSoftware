@@ -1,0 +1,12 @@
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\bin\Debug\net5.0\Demo.dll
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\bin\Debug\net5.0\ref\Demo.dll
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.dll
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\Projetos\Desenvolvedor.io\DominandoTestesSoftware\TestesSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.pdb

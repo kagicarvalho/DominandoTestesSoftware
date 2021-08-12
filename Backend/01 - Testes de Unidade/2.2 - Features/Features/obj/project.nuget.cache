@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZ/rWncEAEtHZvnkl1XMf6rdFcLK8EZEdaKjFAfP5EhVZPifBHGWmdWeYquwVtAWOlBBVWiOUSYQVekG/m3tTg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Desenvolvedor.io\\DominandoTestesSoftware\\TestesSoftware\\01 - Testes de Unidade\\2.2 - Features\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kagic\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
+    "C:\\Users\\kagic\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\kagic\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
